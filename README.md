@@ -12,9 +12,11 @@ as per your requirement
 
 - Put two parties name 
 
-- Put these parties hint, by using the hint votters can contribute their vote easily.
+- Put these parties hint.
 
-- Choose in which method you want to collect vote randomly or manually  (m - manually).
+-  By using the hint, votters can contribute their vote easily.
+
+- Choose in which method you want to collect votes randomly or manually  (m - manually).
 
 
 
